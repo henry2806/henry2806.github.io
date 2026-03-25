@@ -1,0 +1,26 @@
+.contact {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.contact h2 {
+  margin-bottom: 1rem;
+}
+
+.contact p {
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.contact__email {
+  font-size: 1.1rem;
+  color: #1a1a2e;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.contact__email:hover {
+  text-decoration: underline;
+}

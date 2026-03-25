@@ -1,0 +1,22 @@
+.projects {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+.projects h2 {
+  margin-bottom: 2rem;
+}
+
+.projects__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+/* Ab 600px: zwei Spalten */
+@media (min-width: 600px) {
+  .projects__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
