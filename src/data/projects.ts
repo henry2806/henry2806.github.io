@@ -32,7 +32,7 @@ const projects: Project[] = [
   {
     title: "RAG Bot",
     description:
-      "Ein Dashboard, das aktuelle Wetterdaten von einer öffentlichen API abruft und übersichtlich darstellt. Mit Suchfunktion nach Städten.",
+      "Ein RAG (Retrieval-Augmented Generation) Bot, der auf der Open AI API und einer indexierten Bibel basiert und es ermöglicht, Fragen zu der Bibel sowohl in normaler als auch in kinderechter Sprache zu beantworten.",
     techStack: ["Python", "HTML", "Open AI API"],
     githubUrl: "https://github.com/henry2806/RAG-Bot-minimal",
   },
