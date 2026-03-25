@@ -33,8 +33,8 @@ const projects: Project[] = [
     title: "RAG Bot",
     description:
       "Ein Dashboard, das aktuelle Wetterdaten von einer öffentlichen API abruft und übersichtlich darstellt. Mit Suchfunktion nach Städten.",
-    techStack: ["React", "CSS", "OpenWeather API"],
-    githubUrl: "https://github.com/maxmustermann/wetter-dashboard",
+    techStack: ["Python", "HTML", "Open AI API"],
+    githubUrl: "https://github.com/henry2806/RAG-Bot-minimal",
   },
  
 ];
