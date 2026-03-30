@@ -9,6 +9,7 @@ export interface Project {
   title: string;
   description: string;
   techStack: string[];
+  link?: string; // optional
   githubUrl?: string; // optional
 }
 
@@ -27,6 +28,7 @@ const projects: Project[] = [
     description:
       "Eine Flutter basierte App und Webanwendung, die es Nutzern ermöglicht, die Bibel zu lesen, Lesepläne zu erstellen und Notizen zu machen. Inklusive Suchfunktion und RAG basierten Bibelbot. Die Nutzerdaten werden plattfromübergreifend mit Firebase synchronisiert.",
     techStack: ["Flutter", "Railway", "Firebase"],
+    link: "https://bibel-app-2cf4e.firebaseapp.com/",
     githubUrl: "https://github.com/henry2806/flutter_project_bibel_app",
   },
   {
