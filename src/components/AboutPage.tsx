@@ -67,6 +67,19 @@ function AboutPage() {
 
   
        </p>
+            <br />
+
+      <p>
+        Im vierten Semester meines Studiums bekam ich die Möglichkeit, einen
+        Auslandseinsatz in Budapest zu absolvieren. In einem Programm für
+        Auslandseinsätze erhielt ich keinen Platz, obwohl ich die Anforderungen
+        an sehr gute Noten in der Uni erfüllte, doch glücklicherweise konnte
+        mein Business Experte einen Kontakt zu einem Team in Budapest
+        herstellen, das dringend Unterstützung bei der Entwicklung einer
+        Webanwendung brauchte. So konnte ich doch noch einen Auslandseinsatz
+        absolvieren, der mir viele neue Erfahrungen in der Zusammenarbeit mit 
+        internationalen Kollegen und Einblicke in eine neue (Arbeits-)Kultur ermöglichte.
+      </p>
     
 
       <br />
